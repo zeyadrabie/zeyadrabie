@@ -42,4 +42,4 @@ Python, Java, Wireshark, Cisco Packet Tracer, YARA, CAPA, AWS
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/zeyad-rabie-913586369)
+[LinkedIn](https://www.linkedin.com/in/zeyad-rabie-913586369) · [sansabadawg@gmail.com](mailto:sansabadawg@gmail.com)
